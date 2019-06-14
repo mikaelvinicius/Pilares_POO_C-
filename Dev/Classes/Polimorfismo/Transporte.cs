@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Polimorfismo
+﻿namespace Polimorfismo
 {
     public class Transporte
     {
@@ -12,7 +6,7 @@ namespace Polimorfismo
         public string Marca;
         public virtual void Mover()
         {
-            
+
         }
     }
 }

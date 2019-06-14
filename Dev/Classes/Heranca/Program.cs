@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Heranca
 {
@@ -15,7 +11,7 @@ namespace Heranca
             p.Nome = "Fulano";
             p.Nascimento = new DateTime(1999, 6, 30, 23, 40, 5);
             Console.WriteLine("A idade da pessoa é {0}", p.Nascimento.ToString("d"));
-            Console.WriteLine("A idade da pessoa é {0}",p.Nascimento.ToString("dd/MM/yyyy HH:mm"));
+            Console.WriteLine("A idade da pessoa é {0}", p.Nascimento.ToString("dd/MM/yyyy HH:mm"));
             Console.WriteLine("O nome da pessoa é {0}", p.Nome);
             //Console.WriteLine(p.Nascimento.ToString("d"));
             //Console.WriteLine(p.Nascimento.ToString("dd/MM/yyyy HH:mm"));

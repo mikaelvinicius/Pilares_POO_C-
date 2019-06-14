@@ -6,7 +6,7 @@ namespace Encapsulamento
     {
 
     }
-    public class SuperBateria: Bateria
+    public class SuperBateria : Bateria
     {
 
     }

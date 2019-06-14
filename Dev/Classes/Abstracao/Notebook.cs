@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace Abstracao
+﻿namespace Abstracao
 {
     public class Notebook
     {
@@ -18,18 +16,17 @@ namespace Abstracao
         public Teclado Teclado { get; set; }
 
     }
-        public class iPhone
-        {
+    public class iPhone
+    {
 
-        }
-        public class Mouse
-        {
+    }
+    public class Mouse
+    {
 
-        }
-        public class Teclado 
-        {
+    }
+    public class Teclado
+    {
 
-        }
+    }
 }
 
-  

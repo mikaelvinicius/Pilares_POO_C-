@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Classes
 {
@@ -18,9 +14,9 @@ namespace Classes
             Console.WriteLine("A soma de {0} com {1} é {2}", x1, y2, r1);
             Console.ReadKey();
 
-            
 
-            
+
+
         }
     }
 }
